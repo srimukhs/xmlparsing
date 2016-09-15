@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<purchaseOrderType>
+    <shipTo>
+        <name>srimukh</name>
+        <street>grandriver</street>
+        <city>farmington</city>
+        <state>mi</state>
+    </shipTo>
+    <billTo>
+        <name>srimukh</name>
+        <street>grandriver</street>
+        <city>farmington</city>
+        <state>mi</state>
+    </billTo>
+    <items>
+        <item partNum="123">
+            <productName>cellphone case</productName>
+            <quantity>3</quantity>
+        </item>
+        <item partNum="124">
+            <productName>mouse</productName>
+            <quantity>1</quantity>
+        </item>
+        <item partNum="125">
+            <productName>selfie stick</productName>
+            <quantity>1</quantity>
+        </item>
+    </items>
+</purchaseOrderType>

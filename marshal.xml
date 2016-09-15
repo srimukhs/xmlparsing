@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<purchaseOrderType>
+    <shipTo>
+        <name>harry</name>
+        <city>NYC</city>
+    </shipTo>
+    <billTo>
+        <name>tom</name>
+        <city>NYC</city>
+    </billTo>
+    <items>
+        <item partNum="688">
+            <productName>mouse</productName>
+            <quantity>4</quantity>
+        </item>
+        <item partNum="689">
+            <productName>joystick</productName>
+            <quantity>5</quantity>
+        </item>
+    </items>
+</purchaseOrderType>
